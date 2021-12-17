@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OAXRX7ARnykMJ0cZ8JFDLRrZy3NzqXML7S5mmyC5VkqjCUmb6J47BBmLyQrFJWUuRgm82NcpP40AEgE1jmAUHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Irakli\\Desktop\\D dsc\\New Chapter\\SWEEFT EXAM 2\\SweeftExam2\\SweeftExam2\\SweeftExam2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Irakli\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
